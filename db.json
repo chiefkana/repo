@@ -1,5 +1,5 @@
 [
-  {
+  
     "cards":[{ "title": "Card 1", "description": "Hi. I'm card 1", "id": "card-0" },
   { "title": "Card 2", "description": "Hi. I'm card 2", "id": "card-1" },
   { "title": "Card 3", "description": "Hi. I'm card 3", "id": "card-2" },
@@ -50,5 +50,5 @@
   { "title": "Card 48", "description": "Hi. I'm card 48", "id": "card-47" },
   { "title": "Card 49", "description": "Hi. I'm card 49", "id": "card-48" },
   { "title": "Card 50", "description": "Hi. I'm card 50", "id": "card-49" }]
-  }
+  
 ]
